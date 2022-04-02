@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 
 
-![Snake animation](https://github.com/RafaelNCST/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RafaelNCST/RafaelNCST/blob/output/github-contribution-grid-snake.svg)
           
           
           
