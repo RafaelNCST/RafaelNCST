@@ -1,7 +1,4 @@
 - 👋 Olá, meu nome é Rafael Nascimento Colares.
-- 👀 Estou interessado em Python.
-- 🌱 Ultimamente, estou aprendendo HTML, CSS, JavaScript e Node JS. Mais informações em meus repositórios.
-- 📫 Me interessando por Machine Learning
 
 ## Amo tecnologia, jogos, desafios e tudo relacionado a computação!
 
