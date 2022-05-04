@@ -1,7 +1,5 @@
 - 👋 Olá, meu nome é Rafael Nascimento Colares.
 
-## Amo tecnologia, jogos, desafios e tudo relacionado a computação!
-
 <div align="center">
   <a href="https://github.com/RafaelNCST"/>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelNCST&show_icons=true&theme=dark&include_all_commits=true&border_radius=3"/>
